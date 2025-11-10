@@ -1,4 +1,4 @@
-## Hi There,<br> I'm Ashwini Bhardwaj
+## Hello 🙋‍♂️,<br> I'm Ashwini Bhardwaj
 
 🎯 **Exploring ML & AI**  
 📍 Jaipur, Rajasthan, India  
