@@ -1,64 +1,65 @@
-# 👋 Hi there, I'm Ashwini Bhardwaj
+# 👋 Hi, I'm Ashwini Bhardwaj
 
 🎯 **AI & Data Science Enthusiast | Machine Learning Engineer | Generative AI Explorer**  
 📍 Jaipur, Rajasthan, India  
 📧 [ashwinibhardwaj178@gmail.com](mailto:ashwinibhardwaj178@gmail.com)  
-🌐 [Portfolio](https://ashwinibhardwaj.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/ashwini-bhardwaj/) | [GitHub](https://github.com/ashwinibhardwaj)
+🔗 [Portfolio](https://ashwinibhardwaj.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/ashwini-bhardwaj/) • [GitHub](https://github.com/ashwinibhardwaj)
 
 ---
 
-## 🚀 About Me
+## 🎓 Education
 
-I'm a **Master of Computer Applications (MCA)** student at **VIT Bhopal University** passionate about building intelligent systems that bridge **data, AI, and automation**.  
-I love creating end-to-end AI products — from **data preprocessing and model training** to **deploying conversational AI agents and dashboards** that make insights actionable.  
+**VIT Bhopal University** — *Master of Computer Applications (MCA)*  
+📅 Aug 2023 – Oct 2025 | CGPA: 8.79  
 
-> 💡 “Turning complex data into simple, intelligent solutions.”
+**Birla Institute of Technology, Jaipur** — *Bachelor of Computer Applications (BCA)*  
+📅 Aug 2020 – May 2023 | CGPA: 8.62  
 
 ---
 
 ## 🧠 Technical Skills
 
-**Languages:** Python, SQL, Java, C, JavaScript  
-**Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, LangChain, LangGraph, Hugging Face, LLMs, RAG Pipelines, NLTK, SpaCy  
-**Data Engineering:** Databricks, AWS SageMaker, ETL, DVC, Feature Engineering, Vector Databases (Chroma, Qdrant)  
-**Visualization & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Web & Deployment:** Flask, FastAPI, Streamlit, Docker, Postman, API Development  
-**Tools & Platforms:** Git/GitHub, Jupyter Notebook, VS Code, n8n  
+**Programming:** Python, SQL, Java, C, JavaScript  
+**Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, LangChain, LangGraph, LLMs, Hugging Face, RAG Pipelines, NLP  
+**Data Engineering:** Databricks, AWS SageMaker, DVC, ETL, Vector Databases (Chroma, Qdrant)  
+**Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Deployment:** Flask, FastAPI, Streamlit, Docker, API Development  
+**Tools:** Git/GitHub, Jupyter Notebook, VS Code, Postman, n8n  
 
 ---
 
-## 🧩 Key Projects
+## 🚀 Featured Projects
 
-### 🧠 [AI SQL Assistant](https://github.com/ashwinibhardwaj/AI-SQL-ASSISTANT)
-Conversational AI tool that converts natural language queries into SQL and fetches results instantly.  
-Built using **LangChain**, **LangGraph**, **Flask**, and **MySQL**.
+### [AI SQL Assistant](https://github.com/ashwinibhardwaj/AI-SQL-ASSISTANT)
+Conversational AI that converts plain English into SQL queries and returns dataset results.  
+**Tech:** Python, LangChain, LangGraph, Flask, MySQL
 
-### 📊 [DataHelp.AI](https://github.com/ashwinibhardwaj/DataHelp.AI)
-An agentic **Data Analysis Assistant** with RAG and conversational dataset exploration.  
-Implemented with **LangChain**, **Groq**, **Hugging Face Transformers**, and **Streamlit**.
+### [DataHelp.AI](https://github.com/ashwinibhardwaj/DataHelp.AI)
+Agentic data analysis assistant enabling dataset exploration with contextual insights and RAG.  
+**Tech:** Python, LangChain, Groq, Hugging Face, Streamlit
 
-### 💹 [StoX – Stock Trends Dashboard](https://github.com/ashwinibhardwaj/StoX)
-Interactive **AI-driven stock forecasting app** using LSTM and RAG pipelines for real-time insights.  
-Tech: **Python**, **Keras**, **Flask**, **LangChain**, **Groq**.
+### [StoX – Stock Trends Dashboard](https://github.com/ashwinibhardwaj/StoX)
+Interactive dashboard predicting stock prices and delivering AI-powered investment insights.  
+**Tech:** Python, Keras, Flask, LangChain, Groq, RAG Pipelines
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-### **Data Science Intern** @ [Envision Virtue](https://envisionvirtue.wixsite.com/home)  
-🗓️ Dec 2024 – May 2025 | Remote  
-- Built and optimized ML pipelines for faster and cleaner data workflows.  
-- Developed interactive visualizations using **Pandas**, **Scikit-learn**, and **TensorFlow**.  
-- Reduced manual preprocessing by **40%** through automation.
+**Data Science Intern** — *Envision Virtue*  
+📅 Dec 2024 – May 2025 | Remote  
+- Automated data workflows and model pipelines using Pandas, Scikit-learn, and TensorFlow.  
+- Created interactive data visualizations for insight communication.  
+- Reduced manual preprocessing by 40% via workflow optimization.
 
 ---
 
 ## 📜 Certifications
 
-- 🧩 **AWS Educate: Introduction to Generative AI**  
-- 💼 **Software Engineer Job Simulation – Accenture (Forage)**  
-- 🤖 **Generative AI Fundamentals – Databricks**  
-- ☁️ **Databricks for Machine Learning – Databricks**
+- AWS Educate — *Introduction to Generative AI*  
+- Accenture (Forage) — *Software Engineering Job Simulation*  
+- Databricks — *Generative AI Fundamentals*  
+- Databricks — *Machine Learning on Databricks*
 
 ---
 
@@ -69,12 +70,4 @@ Tech: **Python**, **Keras**, **Flask**, **LangChain**, **Groq**.
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Ashwini%20Bhardwaj-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwini-bhardwaj/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://ashwinibhardwaj.github.io/portfolio/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ashwinibhardwaj)
-
----
-
-⭐️ *"Driven by curiosity, powered by data, and inspired by innovation."*
+⭐ *“Driven by curiosity, powered by data, and inspired by innovation.”*
