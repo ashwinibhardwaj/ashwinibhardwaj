@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashwini Bhardwaj
 
-🎯 **Exploring AI/ML**  
+🎯 **Exploring Ml & AI**  
 📍 Jaipur, Rajasthan, India  
 📧 [ashwinibhardwaj178@gmail.com](mailto:ashwinibhardwaj178@gmail.com)  
 🔗 [Portfolio](https://ashwinibhardwaj.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/ashwini-bhardwaj/) • [GitHub](https://github.com/ashwinibhardwaj)
