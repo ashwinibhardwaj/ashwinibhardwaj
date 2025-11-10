@@ -70,4 +70,4 @@ Interactive dashboard predicting stock prices and delivering AI-powered investme
 
 ---
 
-⭐ *“Driven by curiosity, powered by data, and inspired by innovation.”*
+⭐ *“Learning, building, and growing in my journey through AI and Machine Learning.”*
