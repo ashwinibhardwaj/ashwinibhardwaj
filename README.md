@@ -65,8 +65,9 @@ Interactive dashboard predicting stock prices and delivering AI-powered investme
 
 ## 📈 GitHub Stats
 
-![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinibhardwaj&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinibhardwaj&layout=compact&theme=radical&hide=css,html)
+![Ashwini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinibhardwaj&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&count_private=true&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinibhardwaj&layout=compact&theme=radical&hide=css,html,c)
 
 ---
 
