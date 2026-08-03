@@ -162,26 +162,12 @@ A hands on exploration of LLM safety, fine tuning a language model to recognize 
 
 ## 💼 Experience
 
-<table>
-<tr>
-<th align="left">Role</th>
-<th align="left">Organization</th>
-<th align="left">Duration</th>
-<th align="left">Key Contributions</th>
-</tr>
-<tr>
-<td valign="top"><b>Data Science Intern</b></td>
-<td valign="top">Envision Virtue (Remote)</td>
-<td valign="top">Dec 2024 to May 2025</td>
-<td valign="top">
+**Data Science Intern**, Envision Virtue *(Remote)*
+📅 Dec 2024 to May 2025
 
 - Automated data workflows and model pipelines using Pandas, Scikit-learn, and TensorFlow
 - Built interactive data visualizations to communicate insights to stakeholders
 - Reduced manual preprocessing effort by 40% through workflow optimization
-
-</td>
-</tr>
-</table>
 
 ---
 
