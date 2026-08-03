@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ashwini Bhardwaj 👋
 
-### AI/ML Engineer &nbsp;•&nbsp; LLM & GenAI Developer &nbsp; 
+### AI/ML Engineer &nbsp;•&nbsp; LLM & GenAI Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+LLM+Agents;Fine+Tuning+Language+Models;Designing+Production+Ready+AI+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm an AI/ML Engineer based in Jaipur, India, focused on building systems where language models actually do useful work. My background spans classical machine learning (regression, classification, time series forecasting) and the newer generative AI stack (RAG pipelines, agentic workflows, fine tuning, and vector search). I enjoy the full journey of an idea, from framing the problem and choosing the right model or architecture, to shipping it as a working app people can actually use.
+I'm an AI/ML Engineer based in Jaipur, India, focused on building systems where language models actually do useful work. My background spans classical machine learning (regression, classification, time series forecasting) and the generative AI stack (RAG pipelines, agentic workflows, fine tuning, and vector search). I enjoy the full journey of an idea, from framing the problem and choosing the right model or architecture, to shipping it as a working app people can actually use.
 
 Right now, most of my time goes into agentic AI applications built with LangChain and LangGraph, backed by retrieval pipelines over vector databases like Chroma and Qdrant. I also spend time on the safety and reliability side of LLMs, fine tuning models to behave predictably on tricky or adversarial prompts.
 
@@ -34,12 +34,8 @@ Right now, most of my time goes into agentic AI applications built with LangChai
 
 ## 🧠 Technical Skills
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Languages**
-
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -47,7 +43,7 @@ Right now, most of my time goes into agentic AI applications built with LangChai
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI, ML & LLM**
-
+<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -56,11 +52,8 @@ Right now, most of my time goes into agentic AI applications built with LangChai
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
 **Data, Vector Stores & Cloud**
-
+<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
@@ -70,7 +63,7 @@ Right now, most of my time goes into agentic AI applications built with LangChai
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 
 **Deployment & Tools**
-
+<br>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -79,82 +72,51 @@ Right now, most of my time goes into agentic AI applications built with LangChai
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 **Core competencies:** Retrieval Augmented Generation (RAG), LLM agent design, prompt engineering, model fine tuning, NLP, ETL pipelines, API development, and end to end ML model deployment.
 
 ---
 
 ## 🚀 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🗄️ AI SQL Assistant
 Conversational AI that turns plain English questions into working SQL queries and returns live results from a connected database. Built as a LangGraph agent that plans the query, executes it safely, and explains the result back to the user in natural language.
 
-**Highlights**
 - Multi step reasoning agent using LangGraph, not just a single prompt to SQL call
 - Handles ambiguous or multi table questions with follow up clarification
 - Flask backend connected to a live MySQL database
 
 **Stack:** Python, LangChain, LangGraph, Flask, MySQL
-
 🔗 [github.com/ashwinibhardwaj/AI-SQL-ASSISTANT](https://github.com/ashwinibhardwaj/AI-SQL-ASSISTANT)
-
-</td>
-<td width="50%" valign="top">
 
 ### 📊 DataHelp.AI
 An agentic data analysis assistant that lets users upload a dataset and ask questions about it in plain language. Combines retrieval augmented generation with lightweight statistical analysis to ground its answers in the actual data, not just the model's assumptions.
 
-**Highlights**
 - RAG pipeline grounding LLM answers in the uploaded dataset
 - Uses Groq hosted LLaMA models for fast inference
 - Streamlit interface for a smooth, no code user experience
 
 **Stack:** Python, LangChain, Groq, HuggingFace, Streamlit
-
 🔗 [github.com/ashwinibhardwaj/DataHelp.AI](https://github.com/ashwinibhardwaj/DataHelp.AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📈 StoX, Stock Trends Dashboard
 A hybrid forecasting app that pairs a classical LSTM time series model with an LLM. The LSTM predicts 3 day stock price trends, while LLaMA3 70B (via Groq) generates plain language investment insights explaining what the numbers mean.
 
-**Highlights**
 - LSTM model trained on historical price data for trend forecasting
 - LLM generated narrative insights layered on top of numeric predictions
 - Interactive Chart.js visualizations in a Flask web app
 
 **Stack:** Python, Keras, Flask, Groq (LLaMA3 70B), Chart.js
-
 🔗 [github.com/ashwinibhardwaj/StoX](https://github.com/ashwinibhardwaj/StoX)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🛡️ Prompt Safety Fine Tuning
 A hands on exploration of LLM safety, fine tuning a language model to recognize and appropriately handle unsafe or adversarial prompts instead of blindly complying or refusing everything. Focused on the practical side of alignment work.
 
-**Highlights**
 - Curated and labeled a dataset of safe versus unsafe prompt examples
 - Fine tuned a transformer model using HuggingFace tooling
 - Evaluated tradeoffs between over refusal and under refusal
 
 **Stack:** Python, HuggingFace Transformers, Jupyter, PyTorch
-
 🔗 [github.com/ashwinibhardwaj/prompt-safety-finetuning](https://github.com/ashwinibhardwaj/prompt-safety-finetuning)
-
-</td>
-</tr>
-</table>
 
 📁 More projects, including a customer churn predictor and a blog writing agent, are on my [GitHub profile](https://github.com/ashwinibhardwaj?tab=repositories).
 
@@ -198,28 +160,10 @@ A hands on exploration of LLM safety, fine tuning a language model to recognize 
 
 ## 📜 Certifications
 
-<table>
-<tr>
-<th align="left">Certification</th>
-<th align="left">Issuer</th>
-</tr>
-<tr>
-<td>Introduction to Generative AI</td>
-<td>AWS Educate</td>
-</tr>
-<tr>
-<td>Software Engineering Job Simulation</td>
-<td>Accenture (Forage)</td>
-</tr>
-<tr>
-<td>Generative AI Fundamentals</td>
-<td>Databricks</td>
-</tr>
-<tr>
-<td>Machine Learning on Databricks</td>
-<td>Databricks</td>
-</tr>
-</table>
+- 🏅 Introduction to Generative AI, AWS Educate
+- 🏅 Software Engineering Job Simulation, Accenture (Forage)
+- 🏅 Generative AI Fundamentals, Databricks
+- 🏅 Machine Learning on Databricks, Databricks
 
 ---
 
@@ -229,6 +173,24 @@ A hands on exploration of LLM safety, fine tuning a language model to recognize 
 - Multi agent orchestration patterns using LangGraph
 - Evaluation frameworks for measuring LLM output quality and safety
 - Deploying fine tuned models efficiently in production environments
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/ashwinibhardwaj?label=Followers&style=for-the-badge&color=6C63FF&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ashwinibhardwaj&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6C63FF&logo=github)
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinibhardwaj&show_icons=true&theme=radical&hide_rank=true&hide=contribs&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinibhardwaj&layout=compact&theme=radical&hide=css,html&hide_border=true" alt="Top Languages" width="48%"/>
+
+</div>
+
+*These badges and cards pull live data straight from the GitHub API each time this page is viewed, so the numbers always reflect the current state of my profile.*
 
 ---
 
