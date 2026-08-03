@@ -181,7 +181,7 @@ A hands on exploration of LLM safety, fine tuning a language model to recognize 
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/ashwinibhardwaj?label=Followers&style=for-the-badge&color=6C63FF&logo=github)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ashwinibhardwaj&label=Public%20Repos&query=public_repos&style=for-the-badge&color=6C63FF&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashwinibhardwaj&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=6C63FF&logo=github)
 
 <br><br>
 
